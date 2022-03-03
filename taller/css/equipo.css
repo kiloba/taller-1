@@ -1,0 +1,36 @@
+
+#imgeq{
+    float: right;
+}
+#peq{
+    float: left;
+    height: 500px;
+    width: 500px;
+}
+#equipo1{
+    
+    border: 2px darkgrey solid;
+    display: inline-block;
+}
+
+
+#equipo2{
+    
+    border: 2px darkgray solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+}
+
+
+#equipo3{
+
+    border: 2px darkgray solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+}
+
+.correo{
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
